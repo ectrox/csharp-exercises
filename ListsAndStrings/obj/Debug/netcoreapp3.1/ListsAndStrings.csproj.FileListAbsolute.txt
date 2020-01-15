@@ -1,0 +1,11 @@
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.exe
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.deps.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.pdb
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.csprojAssemblyReference.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.pdb

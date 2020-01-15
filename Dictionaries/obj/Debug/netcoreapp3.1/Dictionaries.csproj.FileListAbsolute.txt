@@ -1,0 +1,10 @@
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb

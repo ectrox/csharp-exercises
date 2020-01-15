@@ -1,0 +1,11 @@
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\Array\obj\Debug\netcoreapp3.1\Array.pdb
