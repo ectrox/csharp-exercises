@@ -1,0 +1,11 @@
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\obj\Debug\netcoreapp3.1\ListApp.csprojAssemblyReference.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.exe
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.deps.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\bin\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\obj\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\emmac\code\CG2019\c#\csharp-exercises\ListApp\obj\Debug\netcoreapp3.1\ListApp.pdb
