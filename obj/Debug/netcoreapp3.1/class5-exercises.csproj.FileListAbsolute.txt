@@ -1,0 +1,11 @@
+C:\Users\emmac\source\repos\exercises\obj\Debug\netcoreapp3.1\class5-exercises.csprojAssemblyReference.cache
+C:\Users\emmac\source\repos\exercises\obj\Debug\netcoreapp3.1\class5-exercises.AssemblyInfoInputs.cache
+C:\Users\emmac\source\repos\exercises\obj\Debug\netcoreapp3.1\class5-exercises.AssemblyInfo.cs
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.exe
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.deps.json
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.runtimeconfig.json
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.runtimeconfig.dev.json
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.dll
+C:\Users\emmac\source\repos\exercises\bin\Debug\netcoreapp3.1\class5-exercises.pdb
+C:\Users\emmac\source\repos\exercises\obj\Debug\netcoreapp3.1\class5-exercises.dll
+C:\Users\emmac\source\repos\exercises\obj\Debug\netcoreapp3.1\class5-exercises.pdb
